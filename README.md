@@ -30,5 +30,5 @@ Difference-in-Difference모형<br>
 
 ## 4. 강의자료
 Jupyter notebook files<br>
-Notebook에서 사용한 image files
+Notebook에서 사용한 image files<br>
 [Presentations on income inequality](https://github.com/k5yi/econ2005/blob/master/income-inequality-presentations.md)
