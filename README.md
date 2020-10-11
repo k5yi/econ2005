@@ -25,7 +25,7 @@ Difference-in-Difference모형<br>
 [datasets_1336_2412_test_AV3.csv](https://github.com/k5yi/econ2005/blob/master/datasets/datasets_1336_2412_test_AV3.csv)
 
 ### 3.3 중고차 가격 자료
-출처: [슈퍼짱짱님 블로그](https://blog.naver.com/leedk1110/220775742538)<br>
+출처: [슈퍼짱짱 블로그](https://blog.naver.com/leedk1110/220775742538)<br>
 [used_car.csv](https://github.com/k5yi/econ2005/blob/master/datasets/used_car.csv)
 
 ## 4. 강의자료
