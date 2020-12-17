@@ -40,4 +40,4 @@ Johansen 검정 이용\
 Github에 업로드 되어 있음
 
 ## 발표자료
-Github에 업로드 되어 
+Github에 업로드 되어 있음
