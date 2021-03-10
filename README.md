@@ -30,7 +30,7 @@ Difference-in-Difference모형<br>
 
 ### 3.4 십대 출산율
 출처: <br>
-[teen_birth.txt](https://github.com/k5yi/econ2005/blob/master/datasets/teen_birth.csv)
+[teen_birth.txt](https://github.com/k5yi/econ2005/blob/master/datasets/teen_birth.txt)
 
 ## 4. 강의자료
 Jupyter notebook files<br>
