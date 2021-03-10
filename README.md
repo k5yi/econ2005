@@ -28,6 +28,10 @@ Difference-in-Difference모형<br>
 출처: [슈퍼짱짱 블로그](https://blog.naver.com/leedk1110/220775742538)<br>
 [used_car.csv](https://github.com/k5yi/econ2005/blob/master/datasets/used_car.csv)
 
+### 3.4 십대 출산율
+출처: 
+[teen_birth.txt](https://github.com/k5yi/econ2005/blob/master/datasets/teen_birth.csv)
+
 ## 4. 강의자료
 Jupyter notebook files<br>
 Notebook에서 사용한 image files<br>
