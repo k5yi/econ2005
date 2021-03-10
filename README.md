@@ -29,7 +29,7 @@ Difference-in-Difference모형<br>
 [used_car.csv](https://github.com/k5yi/econ2005/blob/master/datasets/used_car.csv)
 
 ### 3.4 십대 출산율
-출처: 
+출처: <br>
 [teen_birth.txt](https://github.com/k5yi/econ2005/blob/master/datasets/teen_birth.csv)
 
 ## 4. 강의자료
