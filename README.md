@@ -35,10 +35,11 @@ Difference-in-Difference모형<br>
 ### 3.5 소득분포 자료
 출처: GCIP, FRED, World Bank <br> 
 [국가별 10분위 소득, PPP, GCIP, 1980-2015](https://github.com/k5yi/econ2005/blob/master/datasets/GCIPrawdata.csv) <br> 
-[한국 일인당 GDP 수정, 2005년 PPP, 1980-2015](https://github.com/k5yi/econ2005/blob/master/datasets/kor_adjusted_mean_income.pkl) <br>
-[한국 일인당 GDP, 2015년 PPP, FRED, 1953-2010](https://github.com/k5yi/econ2005/blob/master/datasets/PPP_GDP_KOR_FRED.csv) <br> 
-[한국 일인당 GDP, 2015년 PPP, World Bank, 1990-2020](https://github.com/k5yi/econ2005/blob/master/datasets/PPP_GDP_KOR_WB.csv)<br>
+[대한민국 일인당 GDP 수정, 2005년 PPP, 1980-2015](https://github.com/k5yi/econ2005/blob/master/datasets/kor_adjusted_mean_income.pkl) <br>
+[대한민국 일인당 GDP, 2015년 PPP, FRED, 1953-2010](https://github.com/k5yi/econ2005/blob/master/datasets/PPP_GDP_KOR_FRED.csv) <br> 
+[대한민국 일인당 GDP, 2015년 PPP, World Bank, 1990-2020](https://github.com/k5yi/econ2005/blob/master/datasets/PPP_GDP_KOR_WB.csv)<br>
 [국가별 일인당 nominal GDP, World Bank, 1960-2020](https://github.com/k5yi/econ2005/blob/master/datasets/Nominal_GDP_WB.csv)
+[대한민국 사회복지 지출규모](https://github.com/k5yi/econ2005/blob/master/datasets/stat_275901.xls)<br>
 
 
 ## 4. 강의자료
