@@ -38,7 +38,7 @@ Difference-in-Difference모형<br>
 [대한민국 일인당 GDP 수정, 2005년 PPP, 1980-2015](https://github.com/k5yi/econ2005/blob/master/datasets/kor_adjusted_mean_income.pkl) <br>
 [대한민국 일인당 GDP, 2015년 PPP, FRED, 1953-2010](https://github.com/k5yi/econ2005/blob/master/datasets/PPP_GDP_KOR_FRED.csv) <br> 
 [대한민국 일인당 GDP, 2015년 PPP, World Bank, 1990-2020](https://github.com/k5yi/econ2005/blob/master/datasets/PPP_GDP_KOR_WB.csv)<br>
-[국가별 일인당 nominal GDP, World Bank, 1960-2020](https://github.com/k5yi/econ2005/blob/master/datasets/Nominal_GDP_WB.csv)
+[국가별 일인당 nominal GDP, World Bank, 1960-2020](https://github.com/k5yi/econ2005/blob/master/datasets/Nominal_GDP_WB.csv)<br>
 [대한민국 사회복지 지출규모](https://github.com/k5yi/econ2005/blob/master/datasets/stat_275901.xls)<br>
 
 
