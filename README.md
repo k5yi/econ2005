@@ -33,9 +33,9 @@ Difference-in-Difference모형<br>
 [teen_birth.txt](https://github.com/k5yi/econ2005/blob/master/datasets/teen_birth.txt)
 
 ### 3.5 소득분포 자료
-출처: GCIP, FRED, World Bank
-[국가별 10분위 소득, PPP, GCIP, 1980-2014](https://github.com/k5yi/econ2005/blob/master/datasets/GCIPrawdata.csv)
-[한국 일인당 GDP, 2015년 PPP, FRED, 1953-2010](https://github.com/k5yi/econ2005/blob/master/datasets/PPP_GDP_KOR_FRED.csv)
+출처: GCIP, FRED, World Bank <br> 
+[국가별 10분위 소득, PPP, GCIP, 1980-2014](https://github.com/k5yi/econ2005/blob/master/datasets/GCIPrawdata.csv) <br> 
+[한국 일인당 GDP, 2015년 PPP, FRED, 1953-2010](https://github.com/k5yi/econ2005/blob/master/datasets/PPP_GDP_KOR_FRED.csv) <br> 
 [한국 일인당 GDP, 2015년 PPP, World Bank, 1990-2020](https://github.com/k5yi/econ2005/blob/master/datasets/PPP_GDP_KOR_WB.csv)
 
 ## 4. 강의자료
