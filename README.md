@@ -41,6 +41,9 @@ Difference-in-Difference모형<br>
 [국가별 일인당 nominal GDP, World Bank, 1960-2020](https://github.com/k5yi/econ2005/blob/master/datasets/Nominal_GDP_WB.csv)<br>
 [대한민국 사회복지 지출규모, 1990-2018](https://github.com/k5yi/econ2005/blob/master/datasets/stat_275901.xls)<br>
 
+### 3.6 음원
+출처: https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13159118&menuNo=200026 <br>
+[Canon 00:24-00:36](https://github.com/k5yi/econ2005/blob/master/datasets/canon.wav)
 
 ## 4. 강의자료
 Jupyter notebook files<br>
