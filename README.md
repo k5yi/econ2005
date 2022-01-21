@@ -42,7 +42,7 @@ Difference-in-Difference모형<br>
 [대한민국 사회복지 지출규모, 1990-2018](https://github.com/k5yi/econ2005/blob/master/datasets/stat_275901.xls)<br>
 
 ### 3.6 음원
-출처: https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13159118&menuNo=200026 <br>
+출처: [한국저작권위원회 공유마당](https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13159118&menuNo=200026) <br>
 [Canon 00:24-00:36](https://github.com/k5yi/econ2005/blob/master/datasets/canon.wav)
 
 ## 4. 강의자료
