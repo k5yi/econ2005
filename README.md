@@ -45,6 +45,13 @@ Difference-in-Difference모형<br>
 출처: [한국저작권위원회 공유마당](https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13159118&menuNo=200026) <br>
 [Canon 00:24-00:36](https://github.com/k5yi/econ2005/blob/master/datasets/canon.wav)
 
+### 3.7 Life Expentancy
+[Life Expectancy, Kaggle](WHO https://github.com/k5yi/econ2005/blob/master/datasets/Life%20Expectancy%20Data.csv)<br>
+[World Bank PPP constant GDP, 2017, 1990-2020](https://github.com/k5yi/econ2005/blob/master/datasets/WB_PPP_constant_GDP.csv) <br>
+[World Bank Total Population, 1960-2020](https://github.com/k5yi/econ2005/blob/master/datasets/WB_Population.csv) <br>
+[World Bank, Current health expenditure (% of GDP, 2000-2019](https://github.com/k5yi/econ2005/blob/master/datasets/WB_Health_Exp_pct.csv) <br>
+[World Bank, Domestic general government health expenditure (% of GDP), 2000-2019](https://github.com/k5yi/econ2005/blob/master/datasets/WB_Gov_Health_Exp_pct.csv) <br>
+
 ## 4. 강의자료
 Jupyter notebook files<br>
 Notebook에서 사용한 image files<br>
