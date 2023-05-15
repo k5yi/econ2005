@@ -1,0 +1,20 @@
+variable name , storage   type, display   format, value label,      variable label
+management ,     float,  %9.0g ,          ,     * Average of all management questions
+monitor    ,     float,  %9.0g ,          ,       Average of perf1 to perf5
+target     ,     float,  %9.0g ,          ,       Average of perf6 to perf10
+people     ,     float,  %9.0g ,          ,       Average of talent1 to talent6
+lemp_firm  ,     float,  %9.0g ,          ,       Log of 'No. of firm employees as declared in interview'
+export     ,     double, %10.0g,          ,     * % of production exported
+competition,     byte ,  %12.0g,          ,     * No. of competitors
+ownership  ,     str33,  %33s  ,          ,     * Who owns the firm?
+mne_country,     str19,  %19s  ,          ,     * Country of origin of multinational (best guess)
+mne_f      ,     byte ,  %9.0g ,          ,       = 1 if foreign MNE
+mne_d      ,     byte ,  %9.0g ,          ,       = 1 if domestic MNE
+degree_m   ,     byte ,  %8.0g ,          ,     * % of managers with a college degree
+degree_nm  ,     float,  %8.0g ,          ,     * % of non-managers with a college degree
+country    ,     str19,  %19s  ,          ,       Country in which plant is located
+competition2004, byte ,  %9.0g ,          ,       1=No competitors. 2=A few competitors. 3=Many competitors
+year       ,     int  ,  %9.0g ,          ,     * SENSITIVE: Accts: Year of Accounts Data
+sic        ,     int  ,  %8.0g ,          ,     * Three digit US SIC 1987 code (999 is missing)
+lb_employindex,  byte ,  %10.0g,          ,     * WB: Rigidity of employment index (0-100)
+pppgdp     ,     float,  %9.0g ,          ,     * IMF: GDP based on PPP valuation of cty GDP (Current international $ -Billions)
